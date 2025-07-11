@@ -1,0 +1,13 @@
+no 8.3  cccc
+node_modules/
+package-lock.json
+tsconfig.json
+../../../HandsOnActivity/
+../../../InterfaceActivity/
+../../../genericStackData/
+../node_modules/
+../package.json
+../package-lock.json
+../tsconfig.json
+
+
